@@ -642,6 +642,82 @@ data = {
                 monthly_1500_items,
         },
     },
+    109: {
+        'year': 2022,
+        'month': 8,
+        'prizes': {
+            10:
+                monthly_10_items,
+            100:
+                monthly_100_items + [
+                    21967,   # Melon Slicer
+                    10112,  # Cipher: Zeid
+                    10113,  # Cipher: Lion
+                    10118,  # Cipher: Naja
+                    10120,  # Cipher: Lehko
+                    10124,  # Cipher: Luzaf
+                    10125,  # Cipher: Najelith
+                    10129,  # Cipher: Domina
+                    10134,  # Cipher: S. Sibyl
+                    10142,  # Cipher: Karaha
+                    10149,  # Cipher: Areuhat
+                    10136,  # Cipher: Uka
+                    10141,  # Cipher: Kuyin
+                    10144,  # Cipher: Abenzio
+                    10145,  # Cipher: Rughadjeen
+                    10150,  # Cipher: Lhe
+                    10151,  # Cipher: Mayakov
+                    10155,  # Cipher: Brygid
+                    10156,  # Cipher: Mildaurion
+                    10161,  # Cipher: Rongelouts
+                    10166,  # Cipher: Robel-Akbel
+                    10178,  # Cipher: Ullegore
+                    10179,  # Cipher: Teodor
+                    10183,  # Cipher: Darrcuiln
+                ],
+            300: [
+                    10187,  # Cipher: Shantotto II
+                    20668,  # Firetongue
+                    21965,  # Zanmato
+                    21867,  # Sha Wujing's Lance
+                    3722,   # Lion Statue
+                    3720,   # Arciela Statue
+                    3732,   # Crimson Chest
+                    10068,  # ♪Coeurl
+                    10072,  # ♪Adamantoise
+                    22017,  # Selka Uchiwa
+                    25774,  # Fancy Gilet
+                    25775,  # Fancy Top
+                    25838,  # Fancy Trunks
+                    25839,  # FancyShorts
+                    26514,  # Poroggo Fleece
+                    3743,   # Moogle Bed
+                    3718,   # Ado. Tomatoes
+                    10075,  # ♪Red Raptor
+                    22153,  # Silver Gun
+                    3748,   # Leafkin Bed
+                    ],
+            500: [
+                    10081,  # ♪Noble Chocobo
+                    23803,  # Poroggo Cassock
+                    3752,   # Colibri Bed
+                    ],
+            750: [
+                    3885,   # Meldious Plans
+                    3886,   # Timbre Case Kit
+                    3887,   # Musicchinery Kit
+                    ] + monthly_750_items,
+            1000:
+                monthly_1000_items + [
+                    6486,   # Frayed Sack(Pel)
+                    6487,   # Frayed Sack(Fer)
+                    6488,   # Frayed Sack(Tau)
+                ],
+            1500:
+                monthly_1500_items,
+        },
+    },
+    
 }
 
 
